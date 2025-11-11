@@ -39,6 +39,15 @@ A simple yet powerful app to manage your daily workflow efficiently.
 🔗 [https://task-management-frontend-link.netlify.app/](https://task-management-frontend-link.netlify.app/)
 
 ---
+🌐 Product Display Page
+
+Responsive React-based product showcase app featuring search, category filtering, and a clean UI design.
+Ideal for eCommerce and inventory display systems.
+
+🛠 Tech Stack: React, Tailwind CSS
+
+🎨 Live Demo:
+🔗 (https://aravindanr-git.github.io/Products-display-page/)
 
 ## 🔧 In-Progress / Private Projects
 
