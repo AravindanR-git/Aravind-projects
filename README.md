@@ -24,13 +24,19 @@ A complete web-based inventory solution to:
 
 ---
 
-### ✅ [Task Manager App](https://task-management-frontend-link.netlify.app/))
+### ✅ Task Manager App
 A simple yet powerful app to manage your daily workflow efficiently.  
 - Add, edit, and delete tasks  
 - Track progress and completion  
 - Responsive and mobile-friendly  
 
-🛠 **Tech Stack:** React, Bootstrap, Local Storage
+🛠 **Tech Stack:** React, Bootstrap, Local Storage  
+
+**⚙️ Start Backend First:**  
+🔗 [https://task-management-backend-qmfb.onrender.com](https://task-management-backend-qmfb.onrender.com)
+
+**🎨 Open Frontend App:**  
+🔗 [https://task-management-frontend-link.netlify.app/](https://task-management-frontend-link.netlify.app/)
 
 ---
 
