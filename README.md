@@ -48,6 +48,18 @@ Ideal for eCommerce and inventory display systems.
 
 🎨 Live Demo:
 🔗 (https://aravindanr-git.github.io/Products-display-page/)
+--- 
+### 🏥 Healthcare Appointment Booking System
+A full-stack healthcare booking interface.  
+- View doctors by specialization  
+- Book appointments online  
+- Responsive UI with Tailwind CSS
+- 🎨 Live Demo:
+- 🔗 ([https://aravindanr-git.github.io/Products-display-page/](https://aravindanr-git.github.io/HealthCare-App/))
+
+🛠 **Tech Stack:** React (TypeScript), Node.js/Express (optional), Tailwind CSS
+
+---
 
 ## 🔧 In-Progress / Private Projects
 
@@ -61,15 +73,7 @@ A React + Android hybrid app for transport businesses.
 
 ---
 
-### 🏥 Healthcare Appointment Booking System
-A full-stack healthcare booking interface.  
-- View doctors by specialization  
-- Book appointments online  
-- Responsive UI with Tailwind CSS  
 
-🛠 **Tech Stack:** React (TypeScript), Node.js/Express (optional), Tailwind CSS
-
----
 
 ### 🔗 URL Shortener API (Flask)
 A simple API service to shorten long URLs.  
