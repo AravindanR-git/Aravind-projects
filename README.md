@@ -86,8 +86,8 @@ A secure CRUD app to manage users.
 I’m a **Full Stack Developer in training**, passionate about creating clean, efficient, and practical applications — from frontend interfaces to backend APIs and Android integrations.
 
 📫 **Connect with me:**
-- GitHub: [github.com/yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
+- GitHub: [https://github.com/AravindanR-git](https://github.com/AravindanR-git)
+- Email: aravindan017@gmail.com
 
 ---
 
