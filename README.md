@@ -7,12 +7,20 @@ Here you'll find my **published live projects** and several **in-progress apps**
 
 ## 🌐 Live Projects
 
-### 🧾 [Inventory Management App]( https://inventory-management-app-frontend.netlify.app)
+### 🧾 Inventory Management App
 A complete web-based inventory solution to:
 - Manage products, stock, and categories  
-- Designed with Tailwind CSS + React   
+- Generate bills and track deliveries  
+- Designed with Tailwind CSS + React  
+- Optimized for POS receipt printers  
 
-🛠 **Tech Stack:** React, Tailwind CSS, Local Storage, POS Print Integration
+🛠 **Tech Stack:** React, Tailwind CSS, Local Storage, POS Print Integration  
+
+**⚙️ Start Backend First:**  
+🔗 [[https://inventory-backend.onrender.com](https://inventory-management-app-dwbe.onrender.com)]([https://inventory-backend.onrender.com](https://inventory-management-app-dwbe.onrender.com))
+
+**🎨 Open Frontend App:**  
+🔗 [ https://inventory-management-app-frontend.netlify.app]( https://inventory-management-app-frontend.netlify.app)
 
 ---
 
